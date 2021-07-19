@@ -1,0 +1,4 @@
+.env
+mysql-8/
+projects/frontend/**
+projects/backend/**
